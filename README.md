@@ -176,7 +176,7 @@ If you want to know more develop's guideline,
         <tr>
             <td>Hooks</td>
             <td>Redux hooks tutorial</td>
-            <td>https://redux.js.org/tutorials/fundamentals/part-5-ui-react</td>
+            <td>https://redux.js.org/tutorials/essentials/part-1-overview-concepts#redux-terms-and-concepts</td>
         </tr>
         <tr>
             <td>Input Form</td>
